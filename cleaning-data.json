@@ -1,0 +1,37 @@
+[
+  {
+    "Task_Id": 1,
+    "Type": "Floors",
+    "Day": "Monday",
+    "Name": "Chris",
+    "Description": "Dust all surfaces and vacuum the floors."
+  },
+  {
+    "Task_Id": 2,
+    "Type": "Trash",
+    "Day": "Tuesday",
+    "Name": "Dan",
+    "Description": "Take out the trash and recycle."
+  },
+  {
+    "Task_Id": 3,
+    "Type": "Bathroom",
+    "Day": "Tuesday",
+    "Name": "Ayed",
+    "Description": "Wipe down the bathrooms (sink, counter, toilet, shower/tub)."
+  },
+  {
+    "Task_Id": 4,
+    "Type": "Kitchen",
+    "Day": "Wednesday",
+    "Name": "Hassan",
+    "Description": "Wash the dishes and clean the kitchen (wipe down counters, sweep/mop the floor)"
+  },
+  {
+    "Task_Id": 5,
+    "Type": "None",
+    "Day": "None",
+    "Name": "Raphael",
+    "Description": "Help in taking trash out"
+  }
+]
